@@ -4,5 +4,6 @@ window.addEventListener('load', () => {
     const todoList = document.querySelector('#todo-list');
 
     console.log("Init name is " + nameInput);
+    console.log("Alt log");
 })
 
